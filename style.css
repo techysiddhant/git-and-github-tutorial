@@ -6,6 +6,7 @@ body {
 div {
     background-color: aquamarine;
     margin: 0;
+    padding: 2px;
 }
 
 h2 {
